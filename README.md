@@ -173,7 +173,7 @@ stage('Run cicdbasic.sh on Host') {
 ### 🔑 **SSH 키 값 생성**
 
 ```bash
-ssh-keygen -t rsa -b 4096 -C "cshharry@naver.com"
+ssh-keygen -t rsa -b 4096 -C "이메일"
 ```
 
 ### 🔐 **SSH 공개키 원격 서버에 추가**
